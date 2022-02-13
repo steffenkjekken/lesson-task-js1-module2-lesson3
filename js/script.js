@@ -28,5 +28,4 @@ function functionZ() {
     characterArea.innerHTML = len;
 
 };
-
 button.addEventListener("click", functionZ);
